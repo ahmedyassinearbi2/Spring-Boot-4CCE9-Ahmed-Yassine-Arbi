@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import tn.esprit.tpautoloc.domain.enums.RoleEmploye;
+import tn.esprit.autoloc.domain.enums.RoleEmploye;
 
 @Entity
 @Table(name = "employe")

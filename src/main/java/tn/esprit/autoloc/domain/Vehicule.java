@@ -6,8 +6,8 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import tn.esprit.tpautoloc.domain.enums.CategorieVehicule;
-import tn.esprit.tpautoloc.domain.enums.StatutVehicule;
+import tn.esprit.autoloc.domain.enums.CategorieVehicule;
+import tn.esprit.autoloc.domain.enums.StatutVehicule;
 
 import java.math.BigDecimal;
 import java.util.Set;
