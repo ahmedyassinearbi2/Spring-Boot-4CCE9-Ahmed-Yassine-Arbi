@@ -1,0 +1,6 @@
+name: local
+values:
+  - key: baseUrl
+    value: 'http://localhost:8081'
+  - key: contratId
+    value: ''

@@ -1,0 +1,5 @@
+$kind: http-request
+name: Lister les contrats
+url: '{{baseUrl}}/contrats'
+method: GET
+order: 1000
